@@ -26,3 +26,4 @@ then feel free to join rooms / send messages and test it
 
 
 ### UML 
+![uml](https://i.ibb.co/JQCvVht/message-Qeueu.png)
